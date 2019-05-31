@@ -1,2 +1,2 @@
-# Game2
-#Game 2 Files
+# Snake Game HTML based
+#HTML Files
